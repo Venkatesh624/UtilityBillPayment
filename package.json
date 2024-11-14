@@ -1,0 +1,21 @@
+{
+  "name": "utility-bill-payment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "express": "^4.21.1",
+    "fs": "^0.0.1-security",
+    "fs-extra": "^11.2.0",
+    "jsonfile": "^6.1.0",
+    "pdfkit": "^0.15.1",
+    "priorityqueue": "^2.0.0"
+  }
+}
